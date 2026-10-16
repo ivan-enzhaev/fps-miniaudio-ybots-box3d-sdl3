@@ -130,7 +130,7 @@ else()
     set(GLAD_INCLUDE_DIR "$ENV{HOME}/libs/glad-0.1.36/opengl-3.3/include")
     set(GLAD_SOURCE "$ENV{HOME}/libs/glad-0.1.36/opengl-3.3/src/glad.c")
     set(MINIAUDIO_INCLUDE_DIR "$ENV{HOME}/libs/miniaudio-0.11.21/include")
-    set(STB_VORBIS_DIR "C:/libs/stb_vorbis-1.22")
+    set(STB_VORBIS_DIR "$ENV{HOME}/libs/stb_vorbis-1.22")
 endif()
 
 # Pre-find ZLIB and PNG for Wasm so find_dependency in SDL3_imageConfig succeeds
