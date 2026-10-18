@@ -1,7 +1,7 @@
 # Y-Bot Follower FPS (Box3D + Recast + BT.CPP + miniaudio + SDL3)
 
 - **[Live Wasm Demo](https://fps-miniaudio-ybots-box3d-sdl3.vercel.app)**
-- **[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-opengl/cross-platform/setup-fps-miniaudio-ybots-box3d-sdl3)**
+- **[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-opengl/cross-platform/setup-fps-ybots-follower-box3d-recast-ozz-miniaudio-sdl3)**
 
 ## Assets
 
